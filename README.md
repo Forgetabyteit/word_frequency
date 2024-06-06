@@ -15,7 +15,7 @@ This Tampermonkey userscript tracks the frequency of words used by the ChatGPT a
 
 2. **Install the Userscript**:
    - Open Tampermonkey and click on the "Add a new script" button.
-   - Copy and paste the contents of the [userscript](userscript.js) into the Tampermonkey editor.
+   - Copy and paste the contents of the [userscript](https://github.com/Forgetabyteit/word_frequency/blob/main/word_frequency.user.js) into the Tampermonkey editor.
    - Save the script.
 
 ## Usage
